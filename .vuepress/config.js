@@ -192,7 +192,7 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "测试",
+        "title": "测试1111",
         "desc": "Enjoy when you can, and endure when you must.",
         "email": "1156743527@qq.com",
         "link": "https://www.recoluan.com"
